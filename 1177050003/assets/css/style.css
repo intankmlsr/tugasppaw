@@ -1,0 +1,33 @@
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Mansalva', cursive;
+
+}
+p{
+    color: blue;
+}
+#Home{
+    background-image: url('../images/oke.png');
+    width: 100%;
+    background-size: cover;
+}
+.container{
+    width: 800px;
+    margin: 0 auto;
+
+}
+button.btn{
+    border: none;
+    background-color: green;
+    font-family: 'Mansalva', cursive;
+    color: #ffffff;
+    padding: 10px 20px;
+}
+button.btn-general{
+    padding: 20px;
+    background-color: blue;
+    border: none;
+}
+.btn-general:hover{
+    background-color: grey;
+    cursor: pointer;
+}
